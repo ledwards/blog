@@ -7,7 +7,7 @@ title: Lee Edwards
 subtitle: Serial fanboy.
 author: Lee Edwards
 simple_search: http://google.com/search
-description:
+description: Tech lead at SideTour, Pivotal Labs defector, former iRobot engineer, member of the second graduating class of Olin College.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: leeredwards@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
