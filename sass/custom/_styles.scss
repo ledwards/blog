@@ -14,3 +14,33 @@
     line-height: 18px;
   }
 }
+
+// Asides
+
+section.recent-posts {
+  h2 {
+    margin-top: 15px;
+  }
+
+  ul {
+    margin-left: 20px;
+  }
+}
+
+@media screen and (max-width: 1040px) {
+  section.recent-posts {
+    h2 {
+      margin-top: 40px;
+    }
+
+    ul {
+      list-style: none;
+      margin-left: 0px;
+    }
+  }
+
+  .social {
+    margin-top: -30px;
+  }
+}
+
