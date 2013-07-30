@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Meetup Golf"
+date: 2013-07-28 20:34
+comments: true
+categories: career highlights
+---
+
+If you’re a programmer early in your career, you’ve probably heard a lot of people talk about the importance of having a strong network. It’s true. For things like finding a job, a co-founder, or just someone to get advice from, having a strong professional network is invaluable. But the hard part is actually building one, or even knowing how to begin.
+
+The easiest way seems to be to go to networking events. There’s a big problem with this approach though, and that is that **87% of networking event attendees are doing it completely wrong**. Ok, so I made that number up, but hear me out anyway.
+
+If you go to any kind of tech meetup, you will see all sorts of people trying to “build their networks.” They seem to be doing this by walking around, engaging in varying degrees of shameless self-promotion, and trading business cards with as many people as possible. As far as I can tell, the meetup-goer who employs this strategy is expecting that one day, they will have a specific need to use their network for something. They will go directly to their stack of business cards, each one a legally binding contract to call in one favor, and solve their problem with a single email or phone call.
+
+The problem is, of course, that if you have to go to a stack of business cards (or to LinkedIn) to figure out who’s in your network, you’ve already failed. This kind of networking is completely wrong twice. It’s wrong because it’s not going to work, and it’s wrong because it’s a soulless form of quid pro quo that is unbefitting of human beings.
+
+The most helpful people in your network are going to help you not because they expect something in return, but because – get this – they actually like you. So stop trying to make “connections” and “business contacts,” and start trying to make friends. You know, like people do. In life.
+
+Here’s how I suggest approaching meetups and professional networking events. Go with a friend or two. Introduce them to each other and anyone you know at the event. Have them introduce you to some people they know that you don’t. Afterward, grab drinks, or dinner with the friends you’ve brought, and their friends. Have a fun evening.
+
+You can even make a game out of this method. Take the number of business cards you’ve collected (business cards with QR codes count double) and subtract the number of new friends you’ve made. Score it like golf. Par is 2.
+
+I scored a 1 at the last [Out In Tech](http://www.outintech.org) event. I score under par fairly consistently at [CTO School](http://www.ctoschool.org), owing mainly to the wine bar after the event. I stopped going to the meetups where I was consistently scoring triple-bogeys, and I’ve been much happier for it. Try this out, and I think you will be too.
