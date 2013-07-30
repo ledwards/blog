@@ -3,7 +3,7 @@ layout: post
 title: "In Defense of Coders"
 date: 2013-07-11 00:34
 comments: true
-categories: software startups
+categories: software startups highlights
 ---
 
 My good friend James Somers wrote [this article](http://www.aeonmagazine.com/living-together/james-somers-web-developer-money/) for Aeon Magazine. It's a great article, well-written as I've come to expect from James, and there's a lot to unpack - the idea that programming is basically plumbing, that venture-backed startups are essentially time-wasting factories of frivolity, and that our economic system's basis in supply and demand massively undervalues creative workers like writers - but there is one idea I want to focus on in particular, because I think I have some insight into the argument that James doesn't have.
