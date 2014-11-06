@@ -4,7 +4,7 @@
   <title><![CDATA[Lee Edwards]]></title>
   <link href="http://blog.ledwards.com/atom.xml" rel="self"/>
   <link href="http://blog.ledwards.com/"/>
-  <updated>2014-11-05T22:49:29-05:00</updated>
+  <updated>2014-11-05T23:21:54-05:00</updated>
   <id>http://blog.ledwards.com/</id>
   <author>
     <name><![CDATA[Lee Edwards]]></name>
@@ -14,24 +14,53 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Sexism for Dummies]]></title>
-    <link href="http://blog.ledwards.com/blog/2013/08/09/sexism-for-dummies/"/>
-    <updated>2013-08-09T09:50:00-04:00</updated>
-    <id>http://blog.ledwards.com/blog/2013/08/09/sexism-for-dummies</id>
-    <content type="html"><![CDATA[<p>Yesterday, I saw a <a href="http://www.flickr.com/photos/mattgemmell/9465578396/">screenshot</a> of a hiring ad from a
-<a href="http://www.bloopark.com">German web development agency</a> that is so blatantly sexist, it would be <a href="http://www.eeoc.gov/employees/charge.cfm">illegal in the United States</a>.</p>
+    <title type="html"><![CDATA[How Not to Use Pivotal Tracker]]></title>
+    <link href="http://blog.ledwards.com/blog/2013/09/24/how-not-to-use-pivotal-tracker/"/>
+    <updated>2013-09-24T09:50:00-04:00</updated>
+    <id>http://blog.ledwards.com/blog/2013/09/24/how-not-to-use-pivotal-tracker</id>
+    <content type="html"><![CDATA[<p>I used to work at <a href="http://www.pivotallabs.com">Pivotal Labs</a>, and it was an incredible gig. I loved it and learned a lot. Pivotal is known mainly for two things: <a href="http://www.fourhourworkweek.com/blog/2011/06/07/whats-your-start-up-bus-count-7-myths-of-entrepreneurship-and-programming/">their highly-effective agile development methodology</a>, and creating <a href="http://www.pivotaltracker.com">Pivotal Tracker</a>, the agile project management tool. <em>(N.B. The AP Style Guide insists that you always refer to the product as “Pivotal Tracker,” or “Tracker,” but never “Pivotal.” Pivotal is a company. Pivotal Labs is a consulting agency within that company.)</em></p>
 
-<p>Occasionally when discussing charges of sexism in mixed company, I&rsquo;ll get someone who says they just don&rsquo;t get it. Like the <a href="http://www.hulu.com/watch/514294">Stephen Colbert segment on Color-blindness</a>, they claim they&rsquo;re just so equality-minded that they don&rsquo;t see subtle use of language as sexist. They reject the claim that choice of phrasing and subtle language cues can often betray a speaker or writer&rsquo;s prejudices and attitudes toward gender (I&rsquo;m thinking specifically of a conversation I once had with <a href="http://www.twitter.com/DBness">Vanessa Hurst</a> from <a href="http://www.girldevelopit.com/">GirlDevelopIt</a>).</p>
+<p>I’ve <a href="http://www.quora.com/Ruby-on-Rails/Whats-an-efficient-web-app-development-process/answer/Lee-Edwards?__snids__=186146892&amp;__nsrc__=1">written</a> and <a href="https://speakerdeck.com/ledwards/bringing-the-pivotal-process-to-an-early-startup">spoken</a> <a href="http://dev.sidetour.com/post/25368076497/how-project-management-works-at-sidetour">a lot</a> about <a href="http://www.quora.com/What-is-the-difference-between-Pivotal-Labs-and-an-outsourcing-firm">how Pivotal does agile</a>. Unsurprisingly, <a href="http://vimeo.com/52923973">so has Pivotal</a>. Pivotal was founded in 1989, and after years of working this way, they created Pivotal Tracker as a tool for managing this particular kind of agile software development workflow.</p>
 
-<p>Thankfully, this job posting makes no attempts to hide its prejudice. I think almost everyone can agree it&rsquo;s discriminatory and reveals quite a bit about the culture (or lack thereof) at the company in question. So I think it would make a great instructional tool to help the gender-blind understand some of the more subtle aspects of gender discrimination.</p>
-
-<p>Let&rsquo;s start with the job listing in question.</p>
+<p>As such, Tracker enforces that process with a degree of rigidity. This is a good thing, I think. So many of Pivotal clients, and so many startups in general, have one of several problems that Tracker tries to solve by offering strong suggestions about how to work.</p>
 
 <ol>
-<li><strong>Lipstick</strong> Do all women like to wear lipstick? Don&rsquo;t some men like to wear lipstick? This graphic reiforces the idea of <a href="http://en.wikipedia.org/wiki/Gender_roles">gender roles</a>. It makes assumptions about the way women behave, and it implies that women in a workplace environment need to be more concerned about their appearance than men do (or else wouldn&rsquo;t the male listing feature a comb and razor?).</li>
-<li></li>
+<li>No technical/product-focused cofounder, and hence no guidance on product development process</li>
+<li>A technical cofounder with no product experience, and hence no guidance on product development process</li>
+<li>A technical cofounder or employee who has only ever hacked alone, and hence has little notion of how to create a product development process as the company grows</li>
+<li>A bad product development process</li>
 </ol>
 
+
+<p>If you follow <a href="http://www.youtube.com/watch?v=bzCZysm5lG8">the rules of using Tracker</a>, you will always write specs. You will always break those specs into smaller chunks that still deliver value, called “stories.” You will estimate the stories as a team. You will work on them independently, in the order of their priority, and only one at a time. You will deliver them to QA, or “acceptance” before they can make it to production.</p>
+
+<p>So Tracker is usually a breath of fresh air to these companies. A smart person can pick up the basics of how to do agile the Pivotal Way in a day or two, and really internalize and become highly effective within it by a couple weeks. Even if it&rsquo;s not perfect for them, it&rsquo;s a great place to start. Some people have called Tracker&rsquo;s process &ldquo;training wheels&rdquo;. I&rsquo;d say it&rsquo;s a little more like a damn good starter bicycle. But I don&rsquo;t bike, so my analogy might be off.</p>
+
+<p>So what’s the problem then?</p>
+
+<p>The problem is that efficiency and effectiveness is only part of what a startup’s product team needs in order to succeed. The other part is innovation, and that part is much more difficult to describe using a prescriptive process like this one. Tracker gives you no insight into how a story got into Tracker. All of that happens offline and Tracker doesn’t care about it. But as a company, you have to care about it, because you can’t build a company on bad ideas executed quickly.</p>
+
+<p>We’ve tried a number of things to try to fill this space at SideTour. Some have worked, some haven’t. We’ve done several <a href="http://pivotallabs.com/agile-inception_knowing-what-to-build-and-where-to-start/">Pivotal-style brainstorming sessions called “inceptions.”</a> We’ve tried several incarnations of <a href="http://www.forbes.com/sites/stevedenning/2011/06/27/lean-startups-pt-4-using-kanban-to-validate-innovation/">kanban</a>. We&rsquo;ve done some of this in our <a href="http://pivotallabs.com/running-an-ipm/">iteration planning meetings</a> (IPMs, also known to some as sprint planning meetings). We’ve tried various levels of strictness in adherence to <a href="http://theleanstartup.com/">Lean Startup</a>. We’ve spent time ignoring Tracker and focusing on more free-form development process, somewhat like <a href="http://martinjeeblog.wordpress.com/2012/11/20/what-is-programmer-anarchy-and-does-it-have-a-future/">programmer anarchy</a>, which we called an &ldquo;internal hackathon.&rdquo; We did a company-wide brainstorming session during an offsite. And we’ve had a lot of ad hoc conversations and emails to define our product ideas. eEach of these has had various levels of success worthy of their own blog posts.</p>
+
+<p>But the important takeaway for the purpose of this article is that you can’t use Tracker for any of this. Don’t even try. And Pivotal wouldn’t even disagree with me; it’s simply not what the tool is for. It&rsquo;s an agile development tool, not an ideation tool.</p>
+
+<p>For that, you need something more flexible. I used to recommend card walls for this (to replace people&rsquo;s natural tendancy to do something horrible like store important collaborative information in Word or a moleskine), but lately, I’ve been recommending <a href="http://www.trello.com">Trello</a>.</p>
+
+<p>With Trello, you can define your own process. Some people would say this makes it a great replacement for Tracker, and you can certainly do that. See, for example, <a href="https://trello.com/b/m1v3aMZS/pivotal-tracker-implemented-in-pure-trello">this Trello board I made that implements Pivotal Tracker</a> that could serve as a starting point for modifying the Pivotal process into your own agile development process. Another option is to use Trello to track your ideas in various stages before they enter Tracker.</p>
+
+<p>I don’t have a formula for how to manage the process you use to fill the backlog with successful features. If such a process existed, and I knew it, I would be on a beach in Ibiza drinking away my millions one margarita at a time instead of writing this blog post. But here is what SideTour tried during our Hackathon Week, and it both produced great ideas and raised the level of energy and engagement across the entire office by noticeable amounts.</p>
+
+<ol>
+<li>Allow the team to add their own ideas to the Ideas column.</li>
+<li>Encourage team-wide discussion on the ideas (turn on voting if you wish)</li>
+<li>Allow the developers to pick the next thing they want to work on, based on their own opinions of the discussion and voting.1. Enter some form of agile development cycle. The phases used by Tracker are a reasonable default.</li>
+<li>Measure success to help improve company intuition.</li>
+</ol>
+
+
+<p>This process is not optimized for efficiency. Time developers spent discussing various product ideas could be more efficiently allocated to coding. But coders are people, not inputs to a code production engine. And the most valuable ones have product sense. They also know your product better than almost anyone else in the company. Keeping them out of the idea generation phase increases the chance that your startup is going to miss that next important idea.</p>
+
+<p>It’s easy to be lulled into a false sense of security by finding success within your Tracker velocity or &ldquo;Done&rdquo; column. But it’s easy to see how too much focus on getting things done, without an equal or greater focus on what things need to get done, could kill your startup. For that, you need to look outside of Tracker, and inside your team.</p>
 ]]></content>
   </entry>
   
