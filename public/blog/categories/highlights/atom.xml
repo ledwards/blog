@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: highlights | Lee Edwards]]></title>
+  <link href="http://blog.ledwards.com/blog/categories/highlights/atom.xml" rel="self"/>
+  <link href="http://blog.ledwards.com/"/>
+  <updated>2014-11-05T22:49:29-05:00</updated>
+  <id>http://blog.ledwards.com/</id>
+  <author>
+    <name><![CDATA[Lee Edwards]]></name>
+    <email><![CDATA[leeredwards@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Meetup Golf]]></title>
+    <link href="http://blog.ledwards.com/blog/2013/07/28/meetup-golf/"/>
+    <updated>2013-07-28T20:34:00-04:00</updated>
+    <id>http://blog.ledwards.com/blog/2013/07/28/meetup-golf</id>
+    <content type="html"><![CDATA[<p>If you’re a programmer early in your career, you’ve probably heard a lot of people talk about the importance of having a strong network. It’s true. For things like finding a job, a co-founder, or just someone to get advice from, having a strong professional network is invaluable. But the hard part is actually building one, or even knowing how to begin.</p>
+
+<p>The easiest way seems to be to go to networking events. There’s a big problem with this approach though, and that is that <strong>87% of networking event attendees are doing it completely wrong</strong>. Ok, so I made that number up, but hear me out anyway.</p>
+
+<p>If you go to any kind of tech meetup, you will see all sorts of people trying to “build their networks.” They seem to be doing this by walking around, engaging in varying degrees of shameless self-promotion, and trading business cards with as many people as possible. As far as I can tell, the meetup-goer who employs this strategy is expecting that one day, they will have a specific need to use their network for something. They will go directly to their stack of business cards, each one a legally binding contract to call in one favor, and solve their problem with a single email or phone call.</p>
+
+<p>The problem is, of course, that if you have to go to a stack of business cards (or to LinkedIn) to figure out who’s in your network, you’ve already failed. This kind of networking is completely wrong twice. It’s wrong because it’s not going to work, and it’s wrong because it’s a soulless form of quid pro quo that is unbefitting of human beings.</p>
+
+<p>The most helpful people in your network are going to help you not because they expect something in return, but because – get this – they actually like you. So stop trying to make “connections” and “business contacts,” and start trying to make friends. You know, like people do. In life.</p>
+
+<p>Here’s how I suggest approaching meetups and professional networking events. Go with a friend or two. Introduce them to each other and anyone you know at the event. Have them introduce you to some people they know that you don’t. Afterward, grab drinks, or dinner with the friends you’ve brought, and their friends. Have a fun evening.</p>
+
+<p>You can even make a game out of this method. Take the number of business cards you’ve collected (business cards with QR codes count double) and subtract the number of new friends you’ve made. Score it like golf. Par is 2.</p>
+
+<p>I scored a 1 at the last <a href="http://www.outintech.org">Out In Tech</a> event. I score under par fairly consistently at <a href="http://www.ctoschool.org">CTO School</a>, owing mainly to the wine bar after the event. I stopped going to the meetups where I was consistently scoring triple-bogeys, and I’ve been much happier for it. Try this out, and I think you will be too.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[In Defense of Coders]]></title>
+    <link href="http://blog.ledwards.com/blog/2013/07/11/in-defense-of-coders/"/>
+    <updated>2013-07-11T00:34:00-04:00</updated>
+    <id>http://blog.ledwards.com/blog/2013/07/11/in-defense-of-coders</id>
+    <content type="html"><![CDATA[<p>My good friend James Somers wrote <a href="http://www.aeonmagazine.com/living-together/james-somers-web-developer-money/">this article</a> for Aeon Magazine. It&rsquo;s a great article, well-written as I&rsquo;ve come to expect from James, and there&rsquo;s a lot to unpack &ndash; the idea that programming is basically plumbing, that venture-backed startups are essentially time-wasting factories of frivolity, and that our economic system&rsquo;s basis in supply and demand massively undervalues creative workers like writers &ndash; but there is one idea I want to focus on in particular, because I think I have some insight into the argument that James doesn&rsquo;t have.</p>
+
+<blockquote><p>I have a friend who’s a mechanical engineer. He used to build airplane engines for General Electric, and now he’s trying to develop a smarter pill bottle to improve compliance for AIDS and cancer patients. He works out of a start-up ‘incubator’, in an office space shared with dozens of web companies. He doesn’t have a lot of patience for them. ‘I’m fucking sick of it,’ he told me, ‘all they talk about is colours.’</p></blockquote>
+
+<p>I think it&rsquo;s abundantly clear that this is a false contrast &ndash; rhetorically effective perhaps, but misleading. By contrasting the social good of curing terminal illness with the inanity of arguing over colors, James trivializes software engineering and elevates more traditional forms of engineering.</p>
+
+<p>But he just as easily could have contrasted a mechanical engineer who makes Happy Meal toys to a <a href="http://pivotallabs.com/see-your-work-product-in-its-natural-habitat/">software engineer who writes child welfare software</a>. A huge number of plastics manufacturing jobs are dedicated to cheap toys that end their lives in landfills, but that doesn&rsquo;t take away from medicine bottles any more than <a href="http://www.wheremydogsat.com/">Facebook for dogs</a> takes away from <a href="http://www.kiva.org">crowdfunding female entrepreneurs in third world countries</a>.</p>
+
+<p>Colors can be important. They can also be inane. I can tell you from experience that mechanical engineering is not free of mundane details &ndash; draft angles, radii, and of course &ndash; color. Nor is it free of what James earlier in the article calls knowing the &ldquo;instruction manual.&rdquo; In fact, for MEs, this is tenfold. I can still recite for you the names and compositions of commonly used alloys, rules of thumb for designing machined parts &ndash; depths of cut, recommended spindle speeds, and common design features of injection molded parts like bosses and living hinges &ndash; all rote knowledge accidentally commited to permanent memory through a few years of practice. And the ultimate instruction manual for traditional engineers? The $100k four-year instruction manual called a B.S. Engineering.</p>
+
+<blockquote><p>My friends and I who are building websites — we’re kids! We’re kids playing around with tools given to us by adults. In decreasing order of adultness, and leaving out an awful lot, I’m talking about things such as: the Von Neumann stored program computing architecture; the transistor; high-throughput fibre-optic cables; the Unix operating system; the sci-fi-ish cloud computing platform; the web browser; the iPhone; the open source movement; Ruby on Rails; the Stack Overflow Q&amp;A site for programmers; on and on, all the way down to the code that my slightly-more-adult co-workers write for my benefit.</p></blockquote>
+
+<p>When James speaks of abstractions as though they&rsquo;re a bad thing &ndash; something for dull people to be able to wrap their heads around instead of bothering themselves with the intellectual challenges of Djikstra and Turing, he ignores the existance of abstractions in every other creative discipline. Mechanical engineers learn physics in the same way that computer scientists learn linear algebra. One day they may use it a few times, but mostly, they&rsquo;re using reference tables to calculate moments of inertia in that same way that Ruby developers might use Math.rand() instead of writing their own pesudeorandom number generator.</p>
+
+<p style="text-align:center;"><img src="/images/blog/303-table.jpg" alt="303 Stainless Steel Machinability Table" /></p>
+
+<p>But that isn&rsquo;t to say this article is all bad. Quite the contrary. I really appreciate raising the issue of how society values its workforce. We all know that it&rsquo;s a great injustice how little teachers are paid, and how much better off society would be if we could attract more and higher quality educators to the profession. But singling out software engineers who make $100k a year, while ignoring bankers who make five times as much, and giving a free pass to makers of other disciplines with similar problems, seems disingenuous. Especially when software engineering is such a force for economic betterment, with its highly results-oriented, meritocratic culture. I know a programmer who was homeless on the streets in New York for years. He taught himself how to program, and now he&rsquo;s self-sufficient. Software engineers are free of the expensive artificial certifications that create massive barriers to entry for people entering law, finance, and yes &ndash; mechanical engineering. This is why I&rsquo;m excited about companies like <a href="http://www.flatironschool.com">Flatiron School</a> and <a href="http://www.thinkful.com">Thinkful</a>.</p>
+
+<p>Given all of that, it seems James is attacking the wrong target. The question may not be why are software engineers valued so highly, but why are the artists and writers he mentions valued so poorly? The answer to that, I think is much more elusive, one that maybe someday James will tackle with his incomparable wit and candor, but perhaps this time without the straw man.</p>
+]]></content>
+  </entry>
+  
+</feed>
